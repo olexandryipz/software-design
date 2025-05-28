@@ -12,3 +12,4 @@ C:\Users\Oleksandr\Desktop\software-design\Lab3\Task5\obj\Debug\net8.0\refint\Ta
 C:\Users\Oleksandr\Desktop\software-design\Lab3\Task5\obj\Debug\net8.0\Task5.pdb
 C:\Users\Oleksandr\Desktop\software-design\Lab3\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
 C:\Users\Oleksandr\Desktop\software-design\Lab3\Task5\obj\Debug\net8.0\ref\Task5.dll
+C:\Users\Oleksandr\Desktop\software-design\Lab3\Task5\obj\Debug\net8.0\Task5.sourcelink.json

@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
+              "RelativeDocumentMoniker": "Task5\\LightNode.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
+              "RelativeToolTip": "Task5\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:10:51.667Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,9 +49,9 @@
               "RelativeDocumentMoniker": "Task5\\Program.cs",
               "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\Program.cs",
               "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:52:38.912Z",
+              "WhenOpened": "2025-05-28T14:10:53.014Z",
               "EditorCaption": ""
             },
             {
@@ -49,35 +62,22 @@
               "RelativeDocumentMoniker": "Task5\\LightTextNode.cs",
               "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightTextNode.cs",
               "RelativeToolTip": "Task5\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:52:29.171Z",
+              "WhenOpened": "2025-05-28T14:10:52.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
-              "RelativeDocumentMoniker": "Task5\\LightNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
-              "RelativeToolTip": "Task5\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:52:21.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs",
               "RelativeDocumentMoniker": "Task5\\LightElementNode.cs",
               "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs",
               "RelativeToolTip": "Task5\\LightElementNode.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:51:48.321Z",
+              "WhenOpened": "2025-05-28T14:10:50.767Z",
               "EditorCaption": ""
             }
           ]

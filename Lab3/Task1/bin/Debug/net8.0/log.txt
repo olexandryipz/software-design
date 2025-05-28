@@ -1,0 +1,3 @@
+[LOG] Logging to file
+[ERROR] File error occurred
+[WARN] File warning message

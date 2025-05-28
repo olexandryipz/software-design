@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -14,7 +15,7 @@ public enum TagType
     Single
 }
 
-public class LightElementNode : LightNode
+public class LightElementNode : LightNode, IEnumerable<LightNode>
 {
     public string TagName { get; }
     public DisplayType Display { get; }
@@ -63,33 +64,48 @@ public class LightElementNode : LightNode
         }
     }
 
-    protected override void OnCreated()
+    public IEnumerator<LightNode> GetEnumerator()
     {
-        Console.WriteLine($"[OnCreated] Element <{TagName}> created.");
+        yield return this;
+
+        foreach (var child in Children)
+        {
+            if (child is LightElementNode elementChild)
+            {
+                foreach (var descendant in elementChild)
+                {
+                    yield return descendant;
+                }
+            }
+            else
+            {
+                yield return child;
+            }
+        }
     }
 
-    protected override void OnInserted()
+    IEnumerator IEnumerable.GetEnumerator()
     {
-        Console.WriteLine($"[OnInserted] Element <{TagName}> inserted.");
+        return GetEnumerator();
     }
 
-    protected override void OnStylesApplied()
+    public IEnumerable<LightNode> BreadthFirstTraversal()
     {
-        Console.WriteLine($"[OnStylesApplied] Styles applied to <{TagName}>.");
-    }
+        Queue<LightNode> queue = new Queue<LightNode>();
+        queue.Enqueue(this);
 
-    protected override void OnClassListApplied()
-    {
-        Console.WriteLine($"[OnClassListApplied] Classes applied to <{TagName}>: {string.Join(", ", CssClasses)}");
-    }
+        while (queue.Count > 0)
+        {
+            LightNode current = queue.Dequeue();
+            yield return current;
 
-    protected override void OnTextRendered()
-    {
-        Console.WriteLine($"[OnTextRendered] Text rendered inside <{TagName}>.");
-    }
-
-    protected override void OnRemoved()
-    {
-        Console.WriteLine($"[OnRemoved] Element <{TagName}> removed.");
+            if (current is LightElementNode elementNode)
+            {
+                foreach (var child in elementNode.Children)
+                {
+                    queue.Enqueue(child);
+                }
+            }
+        }
     }
 }

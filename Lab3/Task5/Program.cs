@@ -21,9 +21,19 @@ class Program
         div.AddChild(header);
         div.AddChild(paragraph);
 
-        div.Render();
-
-        Console.WriteLine("\n--- Rendered HTML ---");
+        Console.WriteLine("--- Rendered HTML ---");
         Console.WriteLine(div.OuterHTML);
+
+        Console.WriteLine("\n--- DFS Traversal ---");
+        foreach (var node in div)
+        {
+            Console.WriteLine(node.OuterHTML);
+        }
+
+        Console.WriteLine("\n--- BFS Traversal ---");
+        foreach (var node in div.BreadthFirstTraversal())
+        {
+            Console.WriteLine(node.OuterHTML);
+        }
     }
 }

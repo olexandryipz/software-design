@@ -62,4 +62,34 @@ public class LightElementNode : LightNode
             }
         }
     }
+
+    protected override void OnCreated()
+    {
+        Console.WriteLine($"[OnCreated] Element <{TagName}> created.");
+    }
+
+    protected override void OnInserted()
+    {
+        Console.WriteLine($"[OnInserted] Element <{TagName}> inserted.");
+    }
+
+    protected override void OnStylesApplied()
+    {
+        Console.WriteLine($"[OnStylesApplied] Styles applied to <{TagName}>.");
+    }
+
+    protected override void OnClassListApplied()
+    {
+        Console.WriteLine($"[OnClassListApplied] Classes applied to <{TagName}>: {string.Join(", ", CssClasses)}");
+    }
+
+    protected override void OnTextRendered()
+    {
+        Console.WriteLine($"[OnTextRendered] Text rendered inside <{TagName}>.");
+    }
+
+    protected override void OnRemoved()
+    {
+        Console.WriteLine($"[OnRemoved] Element <{TagName}> removed.");
+    }
 }

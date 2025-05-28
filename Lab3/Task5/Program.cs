@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-
         var div = new LightElementNode("div", DisplayType.Block, TagType.Paired);
         div.AddClass("container");
 
@@ -22,6 +21,9 @@ class Program
         div.AddChild(header);
         div.AddChild(paragraph);
 
+        div.Render();
+
+        Console.WriteLine("\n--- Rendered HTML ---");
         Console.WriteLine(div.OuterHTML);
     }
 }

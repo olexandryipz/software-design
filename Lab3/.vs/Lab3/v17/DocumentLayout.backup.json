@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\elementflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\elementflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\elementflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\elementflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8963916-286C-4080-B646-FC009645FB0D}|Task6\\Task6.csproj|solutionrelative:task6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,34 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A3C68D-980B-4063-95C1-11A532010AFE}|Task5\\Task5.csproj|solutionrelative:task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task4\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|solutionrelative:task4\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task4\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|solutionrelative:task4\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task4\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|solutionrelative:task4\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task4\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACB9977-D339-4CD0-B267-E7D8A7CC2CF5}|Task4\\Task4.csproj|solutionrelative:task4\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA1CC2DE-EE82-4C47-80AE-C5D72C3E0729}|Task3\\Task3.csproj|c:\\users\\oleksandr\\desktop\\software-design\\lab3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA1CC2DE-EE82-4C47-80AE-C5D72C3E0729}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,214 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ElementFlyweightFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\ElementFlyweightFactory.cs",
-              "RelativeDocumentMoniker": "Task6\\ElementFlyweightFactory.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\ElementFlyweightFactory.cs",
-              "RelativeToolTip": "Task6\\ElementFlyweightFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:42:51.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ElementFlyweight.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\ElementFlyweight.cs",
-              "RelativeDocumentMoniker": "Task6\\ElementFlyweight.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\ElementFlyweight.cs",
-              "RelativeToolTip": "Task6\\ElementFlyweight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:42:39.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Task6\\LightElementNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightElementNode.cs",
-              "RelativeToolTip": "Task6\\LightElementNode.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:41:45.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LightTextNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightTextNode.cs",
-              "RelativeDocumentMoniker": "Task6\\LightTextNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightTextNode.cs",
-              "RelativeToolTip": "Task6\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:41:33.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LightNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightNode.cs",
-              "RelativeDocumentMoniker": "Task6\\LightNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\LightNode.cs",
-              "RelativeToolTip": "Task6\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
+              "RelativeDocumentMoniker": "Task5\\LightNode.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs*",
+              "RelativeToolTip": "Task5\\LightNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:41:22.124Z",
+              "WhenOpened": "2025-05-28T14:10:51.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\Program.cs",
-              "RelativeDocumentMoniker": "Task6\\Program.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task6\\Program.cs",
-              "RelativeToolTip": "Task6\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\Program.cs*",
+              "RelativeToolTip": "Task5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:41:09.63Z",
+              "WhenOpened": "2025-05-28T14:10:53.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Task5\\LightElementNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs",
-              "RelativeToolTip": "Task5\\LightElementNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:40:03.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightTextNode.cs",
               "RelativeDocumentMoniker": "Task5\\LightTextNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightTextNode.cs",
-              "RelativeToolTip": "Task5\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightTextNode.cs*",
+              "RelativeToolTip": "Task5\\LightTextNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:39:49.469Z",
+              "WhenOpened": "2025-05-28T14:10:52.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
-              "RelativeDocumentMoniker": "Task5\\LightNode.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightNode.cs",
-              "RelativeToolTip": "Task5\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Task5\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\LightElementNode.cs*",
+              "RelativeToolTip": "Task5\\LightElementNode.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:39:38.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\Program.cs",
-              "RelativeDocumentMoniker": "Task5\\Program.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task5\\Program.cs",
-              "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:39:26.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SmartTextReaderLocker.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextReaderLocker.cs",
-              "RelativeDocumentMoniker": "Task4\\SmartTextReaderLocker.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextReaderLocker.cs",
-              "RelativeToolTip": "Task4\\SmartTextReaderLocker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:37:28.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SmartTextChecker.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextChecker.cs",
-              "RelativeDocumentMoniker": "Task4\\SmartTextChecker.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextChecker.cs",
-              "RelativeToolTip": "Task4\\SmartTextChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:37:15.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SmartTextReader.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextReader.cs",
-              "RelativeDocumentMoniker": "Task4\\SmartTextReader.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\SmartTextReader.cs",
-              "RelativeToolTip": "Task4\\SmartTextReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:37:04.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISmartTextReader.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\ISmartTextReader.cs",
-              "RelativeDocumentMoniker": "Task4\\ISmartTextReader.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\ISmartTextReader.cs",
-              "RelativeToolTip": "Task4\\ISmartTextReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:36:53.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task4\\Program.cs",
-              "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:36:19.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\software-design\\Lab3\\Task3\\Program.cs",
-              "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:33:19.41Z",
+              "WhenOpened": "2025-05-28T14:10:50.767Z",
               "EditorCaption": ""
             }
           ]
